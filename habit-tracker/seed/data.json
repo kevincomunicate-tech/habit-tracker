@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "exportedAt": "2026-11-24T00:00:00.000Z",
+  "habits": [
+    {
+      "id": "h_seed_1",
+      "name": "Meditar 10 min",
+      "category": "salud",
+      "color": "#10b981",
+      "icon": "🧘",
+      "type": "build",
+      "createdAt": "2026-11-01",
+      "intentionHour": "07:30",
+      "intentionPlace": "sala",
+      "anchorHabit": "cepillarme los dientes",
+      "minVersion": "Respirar 2 minutos"
+    },
+    {
+      "id": "h_seed_2",
+      "name": "Deep Work",
+      "category": "trabajo",
+      "color": "#6366f1",
+      "icon": "💻",
+      "type": "build",
+      "createdAt": "2026-11-01",
+      "intentionHour": "09:00",
+      "intentionPlace": "escritorio",
+      "anchorHabit": "café matutino",
+      "minVersion": "Abrir el documento 2 min"
+    },
+    {
+      "id": "h_seed_3",
+      "name": "Leer",
+      "category": "estudio",
+      "color": "#8b5cf6",
+      "icon": "📚",
+      "type": "build",
+      "createdAt": "2026-11-01",
+      "intentionHour": "21:00",
+      "intentionPlace": "cama",
+      "anchorHabit": "cenar",
+      "minVersion": "Leer 1 página"
+    },
+    {
+      "id": "h_seed_4",
+      "name": "Sin redes sociales",
+      "category": "personal",
+      "color": "#ec4899",
+      "icon": "📱",
+      "type": "break",
+      "createdAt": "2026-11-10",
+      "lastRelapse": "2026-11-10",
+      "relapseHistory": [],
+      "costPerDay": 0,
+      "timePerDayMinutes": 45
+    }
+  ],
+  "completions": {},
+  "timeBlocks": {},
+  "settings": {
+    "onboardingDone": true,
+    "notificationsEnabled": true,
+    "autostartEnabled": false
+  }
+}
