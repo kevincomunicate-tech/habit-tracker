@@ -20,7 +20,7 @@
 
 Funciona 100% en el navegador con persistencia local (`localStorage`) y respaldos portables en JSON, garantizando privacidad absoluta sin depender de servidores externos.
 
-👉 **Accede a la aplicación en vivo:** [https://github.io](https://github.io)
+👉 **Accede a la aplicación en vivo:** [https://github.io]([https://github.io](https://kevincomunicate-tech.github.io/habit-tracker/))
 
 ---
 
